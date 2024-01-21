@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1d10d12a05d6770429b30918d6ed8420
+labels:
+- Tool
+- FPS
+- Mesh
+- UFPS
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
